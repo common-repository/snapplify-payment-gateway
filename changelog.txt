@@ -1,0 +1,8 @@
+2023-08-18 - version 1.0.2
+* Bug Fixing
+
+2023-08-16 - version 1.0.1
+* Bug Fixing
+
+2022-11-03 - version 1.0.0
+* Initial release
